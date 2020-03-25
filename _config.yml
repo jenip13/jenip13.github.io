@@ -1,13 +1,6 @@
 url: https://jenipatel.com
 title: Jenisha Patel
 description: Jenisha Patel Montreal Canada McGill Cisco
-nav-links:
-  - name: Home/About/Contact
-    url: /
-  - name: Failures
-    url: /fail
-  - name: Writing
-    url: /writing
 defaults:
   -
     scope:
