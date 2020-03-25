@@ -10,12 +10,3 @@
     <body>
         <div id="container">
             <h1 class="global-title">{{ site.title }}‍</h1>
-            {% if site.nav-links %}
-            <nav>
-                <ul>
-                    {% for link in site.nav-links %}
-                    <li><a href="{{ link.url | prepend:site.url }}">{{ link.name }}</a></li>
-                    {% endfor %}
-                </ul>
-            </nav>
-            {% endif %}

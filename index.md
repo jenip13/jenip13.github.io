@@ -3,32 +3,29 @@
 
 <img id="portrait" src="assets/me.jpg" alt="placeholder photo">
 
-Hi! I’m Kat, from Lowell, MA. I’m a first-year student at MIT studying Urban Planning and Computer Science.
+Hey, I’m Jenisha. I was born, raised and educated in Montreal, Canada 🇨🇦. I'm an incoming Software Engineer at Cisco, on the verge of graduating from McGill University.
 
-I founded [Science and Us](https://scienceandus.org), a nonprofit that runs events and creates online resources to help high schoolers learn how to make science clear and engaging.
+I have previously done Data Science on very large things at the Canadian Space Agency 🔭 and research on very small things at Computational Bioengineering and Genomics labs 🔬.
 
-I’m a founder of the [We Are America Project](https://weareamericaproject.com), working with 1300+ students in almost 25 states to share stories that spark conversations, led by the next generation, on what it means to be American.
+I am passionate about using technology for social good and increasing diversity in STEM. During my undergrad, I have helped lead the fabrication of a [brain-controlled wheelchair](https://github.com/NTX-McGill/NeuroTechX-McGill-2019) for severely disabled patients and lead the expansion of McGill Women in Computer Science [(McWiCS)](https://www.facebook.com/McWiCS/) at its co-president.
 
-Above all else, I value integrity, authenticity, empathy, and surrounding yourself with people who lift each other up.
+When I'm not working, I like to explore new places, go to concerts, come up with cringy memes and taste the sundubu jjigae (soft tofu soup) of various Korean restaurants.
 
 ## 👋🏻 Say hi
 
-You can contact me via piegons, horseback, or snail mail.
+You can easily reach me by [email](jenisha.patel@mail.mcgill.ca). You can also find me on [LinkedIn](https://www.linkedin.com/in/jeniptl/) and [Github](https://github.com/jenip13).
 
-## 📍 What I’m doing now*
 
-- Taking 7.012, 8.01, 11.401, and CMS.618 at MIT
-- Building Science and Us
-- Developing a website, helping teachers, and [speaking](https://hubweek.org) [at events](https://bostonbookfest.org/festival/presenters/) for the national We Are America project
-- Organizing [xFair](https://xfair.io), dancing on [Asian Dance Team](https://adt.it.eddu), and writing for [Chroma](https://mitchroma.ink) and Science Policy Review
+## 📍 What I’m doing now
 
-Last updated November 21, 2019
+- Finishing my last semester in quarantine
+- Preparing myself for my first full-time job out of college
 
-\* The concept of a “[now page](https://nownownow.com/about” is from Derek Sivers
+Last updated March 21, 2020
+
 
 ## 📠 Fun facts
 
-- I use em dashes liberally
-- My favorite foods are avocado and ravioli (ideally not together)
-- I can do single-leg/pistol squats but am *very* far from being able to do single-arm push ups
-- I use [Missive](https://missiveapp.com/) as my email client, Visual Studio Code as my primary text editor (but tumblr.com/customize will always have a special place in my heart), Google Calendar as my calendar, and scrap paper / vim + .txt files for todo lists
+- I'm most productive at writing code at 2 AM while listening to Beyoncé
+- I'm fluent in English and français: however, I speak English with a slight French accent et je parle français avec un accent anglophone
+- I'm selectively ambidextrous depending on the activity: I can eat but not write with both hands 
