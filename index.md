@@ -1,7 +1,7 @@
 ---
 ---
 
-<img id="portrait" src="assets/me.jpg" alt="placeholder photo">
+<img id="portrait" src="assets/me.jpg" alt="Photo of Jenisha Patel">
 
 Hey, I’m Jenisha. I was born, raised and educated in Montreal, Canada 🇨🇦. I'm an incoming Software Engineer at Cisco, on the verge of graduating from McGill University.
 

@@ -1,21 +1,25 @@
-# things you probably want to change
-url: http://jenipatel.com
+url: https://jenipatel.com
 title: Jenisha Patel
-description: Jenisha Patel McGill University Cisco Montreal
-
-# things you probably don't want to change
+description: Jenisha Patel Montreal Canada McGill Cisco
+nav-links:
+  - name: Home/About/Contact
+    url: /
+  - name: Failures
+    url: /fail
+  - name: Writing
+    url: /writing
 defaults:
-  - # applies the default layout to all files in the project
+  -
     scope:
-      path: ""
+      path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-  - # sets is_post=true for all blog posts
+  -
     scope:
       path: ""
       type: posts
     values:
-      is_post: true
-permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
+      is_post: true # automatically set is_post=true for all posts
+permalink: /:title
 sass:
-  style: compressed # compress the CSS file generated from the SCSS styles file
+  style: compressed
