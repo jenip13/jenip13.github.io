@@ -13,7 +13,7 @@ When I'm not working, I like to explore new places, go to concerts, come up with
 
 ## 👋🏻 Say hi
 
-You can easily reach me by [email](jenisha.patel@mail.mcgill.ca). You can also find me on [LinkedIn](https://www.linkedin.com/in/jeniptl/) and [Github](https://github.com/jenip13).
+You can easily reach me by [email](mailto:jenisha.patel@mail.mcgill.ca). You can also find me on [LinkedIn](https://www.linkedin.com/in/jeniptl/) and [Github](https://github.com/jenip13).
 
 
 ## 📍 What I’m doing now
