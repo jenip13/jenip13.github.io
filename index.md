@@ -19,7 +19,8 @@ You can easily reach me by [email](mailto:jenisha.patel@mail.mcgill.ca). You can
 ## 📍 What I’m doing now
 
 - Finishing my last semester in quarantine
-- Preparing myself for my first full-time job out of college
+- Ensuring a smooth transition for the next co-presidents of McWiCS
+- Trying to ease my way into adulting by figuring out personal finance
 
 Last updated March 21, 2020
 
