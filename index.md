@@ -22,7 +22,7 @@ You can easily reach me by [email](mailto:jenisha.patel@mail.mcgill.ca). You can
 - Ensuring a smooth transition for the next co-presidents of McWiCS
 - Trying to ease my way into adulting by figuring out personal finance
 
-Last updated March 21, 2020
+Last updated March 26, 2020
 
 
 ## 📠 Fun facts
