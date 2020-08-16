@@ -3,13 +3,13 @@
 
 <img id="portrait" src="assets/me.jpg" alt="Photo of Jenisha Patel">
 
-Hey, I’m Jenisha. I was born, raised and educated in Montreal, Canada 🇨🇦. I'm currently working full-time as a Junir Software Engineer at Cisco, doing cool [VoIP stuff](https://www.cisco.com/c/en/us/products/unified-communications/broadworks/index.html).
+Hey, I’m Jenisha. I was born, raised and educated in Montreal, Canada 🇨🇦. I'm currently working full-time as a Junior Software Engineer at Cisco, doing cool [VoIP stuff](https://www.cisco.com/c/en/us/products/unified-communications/broadworks/index.html).
 
 I have previously done Data Science on very large things at the Canadian Space Agency 🔭 and research on very small things at Computational Bioengineering and Genomics labs 🔬.
 
 I am passionate about using technology for social good and increasing diversity in STEM. During my undergrad at McGill University, I have helped lead the fabrication of a [brain-controlled wheelchair](https://github.com/NTX-McGill/NeuroTechX-McGill-2019) for severely disabled patients and lead the expansion of McGill Women in Computer Science [(McWiCS)](https://www.facebook.com/McWiCS/) at its co-president.
 
-When I'm not working, I like to explore new places, go to concerts, come up with cringy memes and taste the sundubu jjigae (soft tofu soup) of various Korean restaurants.
+When I'm not working, I like to explore new places, go to concerts, come up with cringy memes and experiment with new recipes.
 
 ## 👋🏻 Say hi
 
