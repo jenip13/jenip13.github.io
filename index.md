@@ -3,11 +3,11 @@
 
 <img id="portrait" src="assets/me.jpg" alt="Photo of Jenisha Patel">
 
-Hey, I’m Jenisha. I was born, raised and educated in Montreal, Canada 🇨🇦. I'm an incoming Software Engineer at Cisco, on the verge of graduating from McGill University.
+Hey, I’m Jenisha. I was born, raised and educated in Montreal, Canada 🇨🇦. I'm currently working full-time as a Junir Software Engineer at Cisco, doing cool [VoIP stuff](https://www.cisco.com/c/en/us/products/unified-communications/broadworks/index.html).
 
 I have previously done Data Science on very large things at the Canadian Space Agency 🔭 and research on very small things at Computational Bioengineering and Genomics labs 🔬.
 
-I am passionate about using technology for social good and increasing diversity in STEM. During my undergrad, I have helped lead the fabrication of a [brain-controlled wheelchair](https://github.com/NTX-McGill/NeuroTechX-McGill-2019) for severely disabled patients and lead the expansion of McGill Women in Computer Science [(McWiCS)](https://www.facebook.com/McWiCS/) at its co-president.
+I am passionate about using technology for social good and increasing diversity in STEM. During my undergrad at McGill University, I have helped lead the fabrication of a [brain-controlled wheelchair](https://github.com/NTX-McGill/NeuroTechX-McGill-2019) for severely disabled patients and lead the expansion of McGill Women in Computer Science [(McWiCS)](https://www.facebook.com/McWiCS/) at its co-president.
 
 When I'm not working, I like to explore new places, go to concerts, come up with cringy memes and taste the sundubu jjigae (soft tofu soup) of various Korean restaurants.
 
@@ -18,11 +18,10 @@ You can easily reach me by [email](mailto:jenisha.patel@mail.mcgill.ca). You can
 
 ## 📍 What I’m doing now
 
-- Finishing my last semester in quarantine
-- Ensuring a smooth transition for the next co-presidents of McWiCS
-- Trying to ease my way into adulting by figuring out personal finance
+- Volunteering for [Vital Voices](https://vitalvoicesinnovationlab.io)
+- Taking a remote class at Georgia Tech's College of Computing 
 
-Last updated March 26, 2020
+Last updated August 16, 2020
 
 
 ## 📠 Fun facts
