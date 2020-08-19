@@ -16,7 +16,7 @@ When I'm not working, I like to explore new places, go to concerts, come up with
 You can easily reach me by [email](mailto:jenisha.patel@mail.mcgill.ca). You can also find me on [LinkedIn](https://www.linkedin.com/in/jeniptl/) and [Github](https://github.com/jenip13).
 
 
-## 📍 What I’m doing now
+## 📍 What I’m doing now (outside of work)
 
 - Volunteering for [Vital Voices](https://vitalvoicesinnovationlab.io)
 - Taking a remote class at Georgia Tech's College of Computing 
